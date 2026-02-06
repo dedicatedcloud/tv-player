@@ -17,3 +17,6 @@ bun dev
 bun build
 bun preview
 ```
+
+```
+https://vidsrc.cc/v2/embed/tv/Imdb
